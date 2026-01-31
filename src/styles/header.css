@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 40px;
+}
+
+.nav-links span { margin: 0 10px; cursor: pointer; }
+.red { color: #ff4d6d; }
+.blue { color: #4dabf7; }
+.green { color: #69db7c; }
+
+.theme-btn {
+  background: none;
+  border: none;
+  color: inherit;
+}
